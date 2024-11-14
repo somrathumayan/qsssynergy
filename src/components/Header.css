@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav img{
+    width: 170px;
+    height: 35px;
+}
+.bg-looking{
+    background-image: linear-gradient(to right, #242A2E, #055B9E);
+}
