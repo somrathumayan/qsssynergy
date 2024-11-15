@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/somrathumayan/qsssynergy/static/css/main.de6fb23b.css",
+    "main.js": "/somrathumayan/qsssynergy/static/js/main.ac1ba803.js",
+    "static/js/453.ad04a9e5.chunk.js": "/somrathumayan/qsssynergy/static/js/453.ad04a9e5.chunk.js",
+    "static/media/drone-2.jpg": "/somrathumayan/qsssynergy/static/media/drone-2.428b1e57086f0f520c35.jpg",
+    "static/media/461590389.jpg": "/somrathumayan/qsssynergy/static/media/461590389.9659710e654bb966e14a.jpg",
+    "static/media/MTI-300x152.jpg": "/somrathumayan/qsssynergy/static/media/MTI-300x152.d8cbbdea3c3705920b22.jpg",
+    "static/media/drone.jpeg": "/somrathumayan/qsssynergy/static/media/drone.a763fa3c107fb7d007d9.jpeg",
+    "static/media/d5.jpg": "/somrathumayan/qsssynergy/static/media/d5.0543a9da7bf501be78dc.jpg",
+    "static/media/drone3.webp": "/somrathumayan/qsssynergy/static/media/drone3.ceb3577941ef84d121cb.webp",
+    "static/media/DG-Article-1-768x576.jpg": "/somrathumayan/qsssynergy/static/media/DG-Article-1-768x576.064230031a057349a4ff.jpg",
+    "static/media/dron4.webp": "/somrathumayan/qsssynergy/static/media/dron4.415bb1be3e03f5eba824.webp",
+    "static/media/logo.png": "/somrathumayan/qsssynergy/static/media/logo.ab67ac1d8e3bb7e6aa18.png",
+    "static/media/d7.jpg": "/somrathumayan/qsssynergy/static/media/d7.3389f36da38b1bf74133.jpg",
+    "static/media/d6.jpg": "/somrathumayan/qsssynergy/static/media/d6.06f13d53a5c63515b865.jpg",
+    "index.html": "/somrathumayan/qsssynergy/index.html",
+    "main.de6fb23b.css.map": "/somrathumayan/qsssynergy/static/css/main.de6fb23b.css.map",
+    "main.ac1ba803.js.map": "/somrathumayan/qsssynergy/static/js/main.ac1ba803.js.map",
+    "453.ad04a9e5.chunk.js.map": "/somrathumayan/qsssynergy/static/js/453.ad04a9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6fb23b.css",
+    "static/js/main.ac1ba803.js"
+  ]
+}
