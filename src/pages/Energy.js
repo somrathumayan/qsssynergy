@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from './../components/Header';
 
 const Energy = () => {
     return (
         <div>
-            <h1>Energy Systems</h1>
+            <Header />
         </div>
     );
 };

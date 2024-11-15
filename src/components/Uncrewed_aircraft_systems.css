@@ -1,0 +1,15 @@
+.uncrewed_aircraft_systems_imgage{
+    position: relative;
+    
+}
+
+.uncrewed_aircraft_systems_text{
+    position: absolute;
+    top: 30%;
+    color: white;
+    background: #B1B2AE;
+    opacity: .8;
+    padding: 20px;
+    border-radius: 5px;
+    
+}

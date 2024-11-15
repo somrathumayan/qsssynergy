@@ -1,9 +1,13 @@
 import React from 'react';
+import Header from './../components/Header';
+import Footer from './../components/Footer';
 
 const Careers = () => {
     return (
         <div>
-            <h1>Careers</h1>
+            <Header />
+
+            <Footer />
         </div>
     );
 };
