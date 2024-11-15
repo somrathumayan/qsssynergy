@@ -9,8 +9,8 @@ const Uncrewed_aircraft_systems = () => {
                 <img src={uncrewed_aircraft_systems_imgage} alt="image" className='img-fluid'/>
             </div>
 
-            <div className='container m-0'>
-                <div className="uncrewed_aircraft_systems_text">
+            <div className='container ml-0 p-0'>
+                <div className="uncrewed_aircraft_systems_text w-75 bg-dark">
                     <h4>Uncrewed aircraft systems</h4>
                     <h2>Uncrewed Systems</h2>
                     <p>We continuously push the limits of long endurance, long range reconnaissance, and adaptable uncrewed aircraft systems for intelligence, surveillance, and reconnaissance missions around the world.</p>

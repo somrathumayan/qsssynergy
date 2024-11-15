@@ -1,9 +1,10 @@
 import React from 'react';
+import './Autonomous.css';
 
 const Autonomous = () => {
     return (
         <div>
-            <div className="container py-5">
+            <div className="container py-5 d-block">
                 <div className="row">
                     <div className="col-md-6">
                         <h4>

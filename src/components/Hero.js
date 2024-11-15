@@ -6,10 +6,10 @@ const Hero = () => {
     return (
         <div className="hero__section">
             <div className="hero_img">
-                <img className='img-fluid' src={hero__image} alt="" />
+                <img className='img-fluid' src={hero__image} alt='hero__image'/>
             </div>
             <div className='container'>   
-                <div className="hero_text text-white">
+                <div className="col-md-12 hero_text text-white bg-dark">
                     <h2 className="hero__h2">
                         SEE FARTHER. SEE MORE.
                     </h2>

@@ -1,15 +1,18 @@
 .uncrewed_aircraft_systems_imgage{
     position: relative;
-    
 }
-
+.uncrewed_aircraft_systems_image > img{
+    width: 100%;
+    height: 450px;
+}
 .uncrewed_aircraft_systems_text{
     position: absolute;
-    top: 30%;
+    /* top: 30%; */
     color: white;
-    background: #B1B2AE;
     opacity: .8;
     padding: 20px;
     border-radius: 5px;
-    
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
